@@ -1,6 +1,6 @@
 # 🌱 GrowAGardenCodes.Today
 
-Welcome to the **official GitHub page** for [GrowAGardenCodes.Today](https://growagardencodes.today) – your one-stop destination for the **latest working codes** and **smart tips** to grow faster in the popular *Grow a Garden* game! 🎮🌻
+Welcome to the **official GitHub page** for [Grow A Garden Codes](https://growagardencodes.today) – your one-stop destination for the **latest working codes** and **smart tips** to grow faster in the popular *Grow a Garden* game! 🎮🌻
 
 ---
 
